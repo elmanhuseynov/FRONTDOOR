@@ -1,0 +1,40 @@
+body {
+  background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+#weather {
+    width: 60%;
+    float: left;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+#weather_today {
+    width: 100%;
+    float: left;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+#weather_tomorrow {
+    width: 100%;
+    float: left;
+    background-color: rgb(195, 43, 226);
+    text-align: center;
+}
+
+#table, #t03, #t36, #t69, #t912, #t1215, #t1518, #t1821, #t2124, #t240 {
+    width: 10%;
+    float: left;
+}
+
+#ttc {
+    width: 38%;
+    float: right;
+    background-color: lightcoral;
+}
+
